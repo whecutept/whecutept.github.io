@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whecutept.github.io/sitemap.html.gz
+Sitemap: https://whecutept.github.io/app/sitemap.html.gz
+Sitemap: https://whecutept.github.io/assets/sitemap.html.gz
+Sitemap: https://whecutept.github.io/css/sitemap.html.gz
+Sitemap: https://whecutept.github.io/includes/sitemap.html.gz
+Sitemap: https://whecutept.github.io/item/sitemap.html.gz
+Sitemap: https://whecutept.github.io/src/sitemap.html.gz
